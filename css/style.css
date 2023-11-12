@@ -1,6 +1,6 @@
   .content { float:left; width:92%; margin:0 4%; padding: 20px 0; }
 
-.btn-clear       { background-color:#F2A922; color:#363b41; border: none ; border-radius: 15px; font-family: 'open_sansregular'; padding: 0.5em 0.8em; display:block; float: none; text-decoration: none; margin: auto; width:80%; font-size: 0.95em; text-align: center; line-height: 20px; cursor: pointer; }
+.btn-clear       { background-color:#F2A922; color:#363b41; border: none ; border-radius: 15px; font-family: 'open_sansregular'; padding: 0.5em 0.8em; display:block; float: none; text-decoration: none; margin: auto; width:80%; font-size: 0.95em; font-weight: bold; text-align: center; line-height: 20px; cursor: pointer; }
 .btn-clear:hover { background-color:#F2A922; color:#363b41; }
 
 /*HEADER*/
