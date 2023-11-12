@@ -24,3 +24,8 @@ $(function () {
 document.getElementById("btn-reload_page").addEventListener("click", function () {
     window.location.reload();
 });
+
+document.getElementById("reload-after-login").addEventListener("click", function () {
+    window.location.reload();
+});
+
