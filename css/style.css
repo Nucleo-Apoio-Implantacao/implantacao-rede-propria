@@ -162,9 +162,14 @@ input[type="submit"] {
 
 .form_field {
 
+  background: #fffbfb;
   display: -webkit-box;
   display: -ms-flexbox;
   display: flex;
+  width: 100%;
+  padding-top: 0.5em;
+  padding-bottom: 0.5em;
+  margin-top: 0em;
   margin-bottom: 10px;
 }
 
